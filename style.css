@@ -10,10 +10,13 @@ body {
     background-color: white;
 }
 
+h1.titlesec{text-align: center;}
 
+a {font-size: large; color: aqua;}
+img{width: 150px;}
 /* The code below adds a black background-color and white text color for each section heading. */
 .section {
     color:white;
     text-align: center;
-    background-color: black;
+    background-color: black; 
 }
